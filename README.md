@@ -8,6 +8,11 @@ CoronaEVir allows you to follow live situation of COVID-19 cases, deaths and rec
 [**DOWNLOAD**](https://github.com/sucyfer/CoronaEVir/raw/master/CoronaEVir.apk)
 
 
+## Development
+
+**Developer: Marko Žlender**
+
+[*Resource for live information about COVID-19 count*](https://www.worldometers.info/coronavirus/)
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> and <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
