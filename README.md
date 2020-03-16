@@ -1,4 +1,4 @@
-![](https://github.com/sucyfer/CoronaEVir/blob/master/icon.png)
+![](https://github.com/sucyfer/CoronaEVir/blob/master/icon2.png)
 
 # CoronaEVir
 CoronaEVir allows you to follow live situation of COVID-19 cases, deaths and recovered.
