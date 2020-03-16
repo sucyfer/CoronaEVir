@@ -1,6 +1,8 @@
 ![](https://github.com/sucyfer/CoronaEVir/blob/master/icon2.png)
 
-# CoronaEVir
+
+# CoronaEVir  ![GitHub](https://img.shields.io/github/license/sucyfer/CoronaEVir?color=%23df2626)   ![Maintenance](https://img.shields.io/maintenance/yes/2020)  
+
 CoronaEVir allows you to follow live situation of COVID-19 cases, deaths and recovered.
 
 
