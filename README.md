@@ -12,7 +12,7 @@ CoronaEVir allows you to follow live situation of COVID-19 cases, deaths and rec
 
 **Developer: Marko Žlender**
 
-[*Resource for live information about COVID-19 count*](https://www.worldometers.info/coronavirus/)
+[*Resource for live information about COVID-19 count*](https://www.worldometers.info/coronavirus/)  
 [*Resource for WHO reports on COVID-19*](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/)
 
 
